@@ -1,0 +1,16 @@
+[
+    {
+        "filename": "JSONS/categorias.json",
+        "nombre": "terror",
+        "lista": [],
+        "__idx__": 0,
+        "nombrefile": "JSONS/categorias.json"
+    },
+    {
+        "filename": "JSONS/categorias.json",
+        "nombre": "romance",
+        "lista": [],
+        "__idx__": 0,
+        "nombrefile": "JSONS/categorias.json"
+    }
+]

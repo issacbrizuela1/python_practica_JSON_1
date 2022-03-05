@@ -1,0 +1,34 @@
+[
+    {
+        "filename": "JSONS/actores.json",
+        "nombre": "jose",
+        "apellido": "x",
+        "lista": [],
+        "__idx__": 0,
+        "nombrefile": "JSONS/actores.json"
+    },
+    {
+        "filename": "JSONS/actores.json",
+        "nombre": "pedro",
+        "apellido": "x",
+        "lista": [],
+        "__idx__": 0,
+        "nombrefile": "JSONS/actores.json"
+    },
+    {
+        "filename": "JSONS/actores.json",
+        "nombre": "marcos",
+        "apellido": "x",
+        "lista": [],
+        "__idx__": 0,
+        "nombrefile": "JSONS/actores.json"
+    },
+    {
+        "filename": "JSONS/actores.json",
+        "nombre": "asd",
+        "apellido": "asd",
+        "lista": [],
+        "__idx__": 0,
+        "nombrefile": "JSONS/actores.json"
+    }
+]

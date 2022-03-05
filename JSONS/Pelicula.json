@@ -1,0 +1,19 @@
+[
+    {
+        "filename": "JSONS/Pelicula.json",
+        "nombre": "prueba de nombre",
+        "sinopsis": "xd",
+        "nombreA": "xd",
+        "apellidoA": "asd",
+        "nombreC": "terror",
+        "lista": [],
+        "__idx__": 0,
+        "nombrefile": "JSONS/Pelicula.json"
+    },
+    {
+        "filename": "JSONS/Pelicula.json",
+        "nombre": "romeo y julieta",
+        "sinopsis": "mammama",
+        "nombreA": ""
+    }
+]

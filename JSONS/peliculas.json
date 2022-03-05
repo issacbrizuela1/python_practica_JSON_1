@@ -1,0 +1,16 @@
+[
+    {
+        "filename": "JSONS/ventas.json",
+        "nombre": "Chilaquiles",
+        "codigo": "100",
+        "precio": 200.0,
+        "lista": [],
+        "__idx__": 0,
+        "nombrefile": "JSONS/ventas.json",
+        "nombreComprador": "",
+        "cantidad": 3,
+        "iva": 96.0,
+        "subtotal": 600.0,
+        "total": 696.0
+    }
+]
